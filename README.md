@@ -1,5 +1,5 @@
 # Conversor de Monedas
-Ejercicio guiado para realizar un conversar de monedas, básico
+Ejercicio guiado para realizar un conversor de monedas, básico
 
 
 ## Pasos a seguir:
